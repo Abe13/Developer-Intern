@@ -1,4 +1,4 @@
-Auther: Ebrahim Safavi
+Author: Ebrahim Safavi
 Email: s.e.safavi@gmail.com
 
 Developer Intern Exercise
